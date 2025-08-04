@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head>
+<title> project 1 </title>
+</head>
+<body>
+<p> what is stag </p>
+<p>stag is important</p>
+</body>
+</html>
